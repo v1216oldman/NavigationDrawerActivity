@@ -1,4 +1,0 @@
-#Fri Apr 07 17:32:49 CST 2017
-base.0=F\:\\android_App\\NavigationDrawerActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7
-renamed.0=classes.dex
-file.0=F\:\\android_App\\NavigationDrawerActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7\\classes.dex

@@ -96,11 +96,19 @@ public class DialChart06View extends GraphicalView {
 			ringPercentage.add(rper);
 			ringPercentage.add(rper);
 			
-			List<Integer> rcolor  = new ArrayList<Integer>();			
+			List<Integer> rcolor  = new ArrayList<Integer>();
+
+			rcolor.add(Color.rgb(140, 196, 27));
+			rcolor.add(Color.rgb(238, 204, 71));
+			rcolor.add(Color.rgb(42, 231, 250));
+			rcolor.add(Color.rgb(242, 110, 131));
+
+			/*
 			rcolor.add(Color.rgb(242, 110, 131));
 			rcolor.add(Color.rgb(238, 204, 71));
 			rcolor.add(Color.rgb(42, 231, 250));
-			rcolor.add(Color.rgb(140, 196, 27));						
+			rcolor.add(Color.rgb(140, 196, 27));
+			*/
 			chart.addStrokeRingAxis(0.85f,0.7f, ringPercentage, rcolor);
 					
 			chart.addCircleAxis(0.6f, Color.WHITE);

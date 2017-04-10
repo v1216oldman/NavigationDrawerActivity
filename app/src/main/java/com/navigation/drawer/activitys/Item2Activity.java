@@ -111,6 +111,7 @@ public class Item2Activity extends BaseActivity {
 		float pf = p / 100f;
 		chart1.setCurrentStatus(pf);
 		chart1.invalidate();
+		Log.d("log","MPH function Start");
 
 	}
 
@@ -122,6 +123,7 @@ public class Item2Activity extends BaseActivity {
 		float pf = p / 100f;
 		chart2.setCurrentStatus(pf);
 		chart2.invalidate();
+		Log.d("log","Engine Temp function Start");
 	}
 
 	private void RPM(){
@@ -132,6 +134,7 @@ public class Item2Activity extends BaseActivity {
 		float pf = p / 100f;
 		chart3.setCurrentStatus(pf);
 		chart3.invalidate();
+		Log.d("log","Engine Temp function Start");
 	}
 
 	private void MAF(){
@@ -142,6 +145,7 @@ public class Item2Activity extends BaseActivity {
 		float pf = p / 100f;
 		chart4.setCurrentStatus(pf);
 		chart4.invalidate();
+		Log.d("log","MAF function Start");
 	}
 
 	private void Fuel_rate(){
@@ -152,10 +156,10 @@ public class Item2Activity extends BaseActivity {
 		float pf = p / 100f;
 		chart5.setCurrentStatus(pf);
 		chart5.invalidate();
+		Log.d("log","Fuel rate function Start");
 	}
 
 	private void Battery(){
-
 		int max = 12;
 		int min = 1;
 		Random random = new Random();
@@ -163,5 +167,6 @@ public class Item2Activity extends BaseActivity {
 		float pf = p / 100f;
 		chart6.setCurrentStatus(pf);
 		chart6.invalidate();
+		Log.d("log","Battery function Start");
 	}
 }
