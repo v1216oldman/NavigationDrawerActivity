@@ -10,6 +10,7 @@ import android.content.SharedPreferences;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.v4.app.ActionBarDrawerToggle;
+import android.support.v4.app.FragmentActivity;
 import android.support.v4.widget.DrawerLayout;
 import android.view.KeyEvent;
 import android.view.Menu;
@@ -28,7 +29,7 @@ import com.navigation.drawer.adapters.NavigationDrawerListAdapter;
 import com.navigation.drawer.models.Items;
 
 
-public class BaseActivity extends Activity {
+public class BaseActivity extends FragmentActivity {
 
 	protected FrameLayout frameLayout;
 	protected ListView mDrawerList;
@@ -44,7 +45,6 @@ public class BaseActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.navigation_drawer_base_layout);
-
 
 
 		ActivityCollector.addActivity(this);

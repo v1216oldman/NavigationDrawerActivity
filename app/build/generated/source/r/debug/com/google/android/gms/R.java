@@ -496,8 +496,8 @@ public final class R {
         public static final int cast_forward_10 = 0x7f060020;
         public static final int cast_forward_30 = 0x7f060021;
         public static final int cast_intro_overlay_button_text = 0x7f060022;
-        public static final int cast_invalid_stream_duration_text = 0x7f060092;
-        public static final int cast_invalid_stream_position_text = 0x7f060093;
+        public static final int cast_invalid_stream_duration_text = 0x7f060093;
+        public static final int cast_invalid_stream_position_text = 0x7f060094;
         public static final int cast_mute = 0x7f060023;
         public static final int cast_notification_connected_message = 0x7f060024;
         public static final int cast_notification_connecting_message = 0x7f060025;
@@ -550,9 +550,9 @@ public final class R {
         public static final int place_autocomplete_search_hint = 0x7f060064;
         public static final int store_picture_message = 0x7f060066;
         public static final int store_picture_title = 0x7f060067;
-        public static final int tagmanager_preview_dialog_button = 0x7f06009b;
-        public static final int tagmanager_preview_dialog_message = 0x7f06009c;
-        public static final int tagmanager_preview_dialog_title = 0x7f06009d;
+        public static final int tagmanager_preview_dialog_button = 0x7f06009c;
+        public static final int tagmanager_preview_dialog_message = 0x7f06009d;
+        public static final int tagmanager_preview_dialog_title = 0x7f06009e;
         public static final int wallet_buy_button_place_holder = 0x7f060068;
     }
     public static final class style {

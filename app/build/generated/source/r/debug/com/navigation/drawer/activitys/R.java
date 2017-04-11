@@ -4118,7 +4118,7 @@ containing a value of this type.
         public static final int live_stream_seek_bar=0x7f0d00c8;
         public static final int loading_indicator=0x7f0d00c1;
         public static final int logo_only=0x7f0d007c;
-        public static final int map_fragment=0x7f0d00f1;
+        public static final int map=0x7f0d00f1;
         public static final int match_global_nicknames=0x7f0d0064;
         public static final int match_parent=0x7f0d0075;
         public static final int media_actions=0x7f0d0112;
@@ -4349,22 +4349,22 @@ containing a value of this type.
         public static final int main=0x7f0e0000;
     }
     public static final class string {
-        public static final int Item_Five=0x7f060069;
-        public static final int Item_Five_Description=0x7f06006a;
-        public static final int Item_Four=0x7f06006b;
-        public static final int Item_Four_Description=0x7f06006c;
-        public static final int Item_One=0x7f06006d;
-        public static final int Item_One_Description=0x7f06006e;
-        public static final int Item_Seven=0x7f06006f;
-        public static final int Item_Seven_Description=0x7f060070;
-        public static final int Item_Six=0x7f060071;
-        public static final int Item_Six_Description=0x7f060072;
-        public static final int Item_Three=0x7f060073;
-        public static final int Item_Three_Description=0x7f060074;
-        public static final int Item_Two=0x7f060075;
-        public static final int Item_Two_Description=0x7f060076;
-        public static final int Message_Back=0x7f060077;
-        public static final int Title_Back=0x7f060078;
+        public static final int Item_Five=0x7f06006a;
+        public static final int Item_Five_Description=0x7f06006b;
+        public static final int Item_Four=0x7f06006c;
+        public static final int Item_Four_Description=0x7f06006d;
+        public static final int Item_One=0x7f06006e;
+        public static final int Item_One_Description=0x7f06006f;
+        public static final int Item_Seven=0x7f060070;
+        public static final int Item_Seven_Description=0x7f060071;
+        public static final int Item_Six=0x7f060072;
+        public static final int Item_Six_Description=0x7f060073;
+        public static final int Item_Three=0x7f060074;
+        public static final int Item_Three_Description=0x7f060075;
+        public static final int Item_Two=0x7f060076;
+        public static final int Item_Two_Description=0x7f060077;
+        public static final int Message_Back=0x7f060078;
+        public static final int Title_Back=0x7f060079;
         public static final int abc_action_bar_home_description=0x7f060000;
         public static final int abc_action_bar_home_description_format=0x7f060001;
         public static final int abc_action_bar_home_subtitle_description_format=0x7f060002;
@@ -4375,18 +4375,18 @@ containing a value of this type.
         public static final int abc_activitychooserview_choose_application=0x7f060007;
         public static final int abc_capital_off=0x7f060008;
         public static final int abc_capital_on=0x7f060009;
-        public static final int abc_font_family_body_1_material=0x7f060079;
-        public static final int abc_font_family_body_2_material=0x7f06007a;
-        public static final int abc_font_family_button_material=0x7f06007b;
-        public static final int abc_font_family_caption_material=0x7f06007c;
-        public static final int abc_font_family_display_1_material=0x7f06007d;
-        public static final int abc_font_family_display_2_material=0x7f06007e;
-        public static final int abc_font_family_display_3_material=0x7f06007f;
-        public static final int abc_font_family_display_4_material=0x7f060080;
-        public static final int abc_font_family_headline_material=0x7f060081;
-        public static final int abc_font_family_menu_material=0x7f060082;
-        public static final int abc_font_family_subhead_material=0x7f060083;
-        public static final int abc_font_family_title_material=0x7f060084;
+        public static final int abc_font_family_body_1_material=0x7f06007a;
+        public static final int abc_font_family_body_2_material=0x7f06007b;
+        public static final int abc_font_family_button_material=0x7f06007c;
+        public static final int abc_font_family_caption_material=0x7f06007d;
+        public static final int abc_font_family_display_1_material=0x7f06007e;
+        public static final int abc_font_family_display_2_material=0x7f06007f;
+        public static final int abc_font_family_display_3_material=0x7f060080;
+        public static final int abc_font_family_display_4_material=0x7f060081;
+        public static final int abc_font_family_headline_material=0x7f060082;
+        public static final int abc_font_family_menu_material=0x7f060083;
+        public static final int abc_font_family_subhead_material=0x7f060084;
+        public static final int abc_font_family_title_material=0x7f060085;
         public static final int abc_search_hint=0x7f06000a;
         public static final int abc_searchview_description_clear=0x7f06000b;
         public static final int abc_searchview_description_query=0x7f06000c;
@@ -4396,20 +4396,20 @@ containing a value of this type.
         public static final int abc_shareactionprovider_share_with=0x7f060010;
         public static final int abc_shareactionprovider_share_with_application=0x7f060011;
         public static final int abc_toolbar_collapse_description=0x7f060012;
-        public static final int about=0x7f060085;
-        public static final int about_Contact_window=0x7f060086;
-        public static final int about_company=0x7f060087;
-        public static final int about_email=0x7f060088;
-        public static final int about_fax=0x7f060089;
-        public static final int about_office=0x7f06008a;
-        public static final int about_tel=0x7f06008b;
-        public static final int about_website=0x7f06008c;
+        public static final int about=0x7f060086;
+        public static final int about_Contact_window=0x7f060087;
+        public static final int about_company=0x7f060088;
+        public static final int about_email=0x7f060089;
+        public static final int about_fax=0x7f06008a;
+        public static final int about_office=0x7f06008b;
+        public static final int about_tel=0x7f06008c;
+        public static final int about_website=0x7f06008d;
         public static final int accept=0x7f060013;
-        public static final int action_settings=0x7f06008d;
-        public static final int app_name=0x7f06008e;
-        public static final int appbar_scrolling_view_behavior=0x7f06008f;
-        public static final int bottom_sheet_behavior=0x7f060090;
-        public static final int cancel=0x7f060091;
+        public static final int action_settings=0x7f06008e;
+        public static final int app_name=0x7f06008f;
+        public static final int appbar_scrolling_view_behavior=0x7f060090;
+        public static final int bottom_sheet_behavior=0x7f060091;
+        public static final int cancel=0x7f060092;
         public static final int cast_ad_label=0x7f060014;
         public static final int cast_casting_to_device=0x7f060015;
         public static final int cast_closed_captions=0x7f060016;
@@ -4425,8 +4425,8 @@ containing a value of this type.
         public static final int cast_forward_10=0x7f060020;
         public static final int cast_forward_30=0x7f060021;
         public static final int cast_intro_overlay_button_text=0x7f060022;
-        public static final int cast_invalid_stream_duration_text=0x7f060092;
-        public static final int cast_invalid_stream_position_text=0x7f060093;
+        public static final int cast_invalid_stream_duration_text=0x7f060093;
+        public static final int cast_invalid_stream_position_text=0x7f060094;
         public static final int cast_mute=0x7f060023;
         public static final int cast_notification_connected_message=0x7f060024;
         public static final int cast_notification_connecting_message=0x7f060025;
@@ -4451,8 +4451,8 @@ containing a value of this type.
         public static final int cast_tracks_chooser_dialog_ok=0x7f060038;
         public static final int cast_tracks_chooser_dialog_subtitles=0x7f060039;
         public static final int cast_unmute=0x7f06003a;
-        public static final int character_counter_pattern=0x7f060094;
-        public static final int close_drawer=0x7f060095;
+        public static final int character_counter_pattern=0x7f060095;
+        public static final int close_drawer=0x7f060096;
         public static final int common_google_play_services_enable_button=0x7f06003b;
         public static final int common_google_play_services_enable_text=0x7f06003c;
         public static final int common_google_play_services_enable_title=0x7f06003d;
@@ -4470,7 +4470,7 @@ containing a value of this type.
         public static final int common_open_on_phone=0x7f060049;
         public static final int common_signin_button_text=0x7f06004a;
         public static final int common_signin_button_text_long=0x7f06004b;
-        public static final int confirm=0x7f060096;
+        public static final int confirm=0x7f060097;
         public static final int create_calendar_message=0x7f06004c;
         public static final int create_calendar_title=0x7f06004d;
         public static final int debug_menu_ad_information=0x7f06004e;
@@ -4478,9 +4478,10 @@ containing a value of this type.
         public static final int debug_menu_title=0x7f060050;
         public static final int debug_menu_troubleshooting=0x7f060051;
         public static final int decline=0x7f060052;
-        public static final int dummy_string=0x7f060097;
-        public static final int hello_world=0x7f060098;
-        public static final int help=0x7f060099;
+        public static final int dummy_string=0x7f060098;
+        public static final int google_maps_key=0x7f060069;
+        public static final int hello_world=0x7f060099;
+        public static final int help=0x7f06009a;
         public static final int mr_button_content_description=0x7f060053;
         public static final int mr_chooser_searching=0x7f060054;
         public static final int mr_chooser_title=0x7f060055;
@@ -4497,15 +4498,15 @@ containing a value of this type.
         public static final int mr_controller_stop=0x7f060060;
         public static final int mr_system_route_name=0x7f060061;
         public static final int mr_user_route_category_name=0x7f060062;
-        public static final int open_drawer=0x7f06009a;
+        public static final int open_drawer=0x7f06009b;
         public static final int place_autocomplete_clear_button=0x7f060063;
         public static final int place_autocomplete_search_hint=0x7f060064;
         public static final int status_bar_notification_info_overflow=0x7f060065;
         public static final int store_picture_message=0x7f060066;
         public static final int store_picture_title=0x7f060067;
-        public static final int tagmanager_preview_dialog_button=0x7f06009b;
-        public static final int tagmanager_preview_dialog_message=0x7f06009c;
-        public static final int tagmanager_preview_dialog_title=0x7f06009d;
+        public static final int tagmanager_preview_dialog_button=0x7f06009c;
+        public static final int tagmanager_preview_dialog_message=0x7f06009d;
+        public static final int tagmanager_preview_dialog_title=0x7f06009e;
         public static final int wallet_buy_button_place_holder=0x7f060068;
     }
     public static final class style {
@@ -4514,8 +4515,7 @@ containing a value of this type.
         public static final int Animation_AppCompat_Dialog=0x7f08008f;
         public static final int Animation_AppCompat_DropDownUp=0x7f080090;
         public static final int Animation_Design_BottomSheetDialog=0x7f080091;
-        /**  API 11 theme customizations can go here. 
- API 14 theme customizations can go here. 
+        /**  API 14 theme customizations can go here. 
 
             Theme customizations available in newer API levels can go in
             res/values-vXX/styles.xml, while customizations related to
