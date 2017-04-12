@@ -8,7 +8,7 @@
         android:minSdkVersion="14"
         android:targetSdkVersion="23" />
 
-    <!-- 允許應用程式可以存取Google Maps 伺服器，其中 「com.navigation.drawer.activitys」是套件名稱 -->
+    <!-- 允許應用程式可以存取Google Maps 伺服器 -->
     <permission
         android:name="com.navigation.drawer.activity.permission.MAPS_RECEIVE"
         android:protectionLevel="signature" />

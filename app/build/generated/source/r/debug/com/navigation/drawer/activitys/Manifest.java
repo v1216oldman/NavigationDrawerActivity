@@ -10,7 +10,7 @@ package com.navigation.drawer.activitys;
 public final class Manifest {
     public static final class permission {
         public static final String C2D_MESSAGE="com.navigation.drawer.activity.permission.C2D_MESSAGE";
-        /**  允許應用程式可以存取Google Maps 伺服器，其中 「com.navigation.drawer.activitys」是套件名稱 
+        /**  允許應用程式可以存取Google Maps 伺服器 
          */
         public static final String MAPS_RECEIVE="com.navigation.drawer.activity.permission.MAPS_RECEIVE";
     }

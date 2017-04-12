@@ -1,4 +1,4 @@
-#Tue Apr 11 11:50:28 CST 2017
+#Tue Apr 11 17:32:38 CST 2017
 file.58=F\:\\android_App\\NavigationDrawerActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_59649fb66c117625724f77e194199e9fb999655a\\classes.dex
 file.57=F\:\\android_App\\NavigationDrawerActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_826537bc11098e1eb9a2328629ede6a68a9dcc66\\classes.dex
 file.56=F\:\\android_App\\NavigationDrawerActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_162718dba9e6ea7c963a7e3981158e2bae56618f\\classes.dex

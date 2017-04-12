@@ -84,9 +84,11 @@ public class Item3Activity extends BaseActivity implements OnMapReadyCallback {
         mMap = googleMap;
 
         // Add a marker in Sydney and move the camera
-        LatLng sydney = new LatLng(25.060764, 121.64545999999996);
-        mMap.addMarker(new MarkerOptions().position(sydney).title("Clientron Corp."));
-        mMap.moveCamera(CameraUpdateFactory.newLatLng(sydney));
+        LatLng clientron = new LatLng(25.060764, 121.64545999999996);
+        mMap.addMarker(new MarkerOptions().position(clientron).title("Clientron Corp."));
+        float zoom=17;
+        mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(clientron,zoom));
+        //mMap.moveCamera(CameraUpdateFactory.newLatLng(clientron));
     }
 
     private void checkGooglePlayServices(){
